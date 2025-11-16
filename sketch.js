@@ -514,3 +514,4 @@ function windowResized() {
     adjustStrokeAndScale();
     resetComposition();
 }
+ 
