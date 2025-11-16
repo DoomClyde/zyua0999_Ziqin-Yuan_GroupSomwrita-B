@@ -1,6 +1,6 @@
-#Creative coding major project
+# Creative coding major project
 
-##1. How to Run This Work
+## . How to Run This Work
 
 This prototype is a self-driven system—you don't need to interact with it for the animation to run.
 
@@ -14,7 +14,9 @@ Sustained Animation Phase: Once the image is complete, it enters a continuous, o
 
 If you need to adjust your browser window, the entire composition will automatically reset and scale to fit the new dimensions.
 
-##2. My Approach and How It's Different
+![Image](readmeImages/preview.gif)
+
+## 2. My Approach and How It's Different
 
 I chose the Perlin Noise method because I wanted to take Mohamedi's incredibly precise, static grid and infuse it with an organic, subtle sense of life, as if the drawing itself is subtly breathing.
 
@@ -36,7 +38,7 @@ Weight Fluctuation: The stroke weight of these lines constantly fluctuates, driv
 
 Positional Movement: These lines are also programmed to move slowly and linearly back and forth. This persistent, gentle shift creates a disruption that reminds the viewer of the passage of time over the structure.
 
-##3. Inspiration and Rationale
+## 3. Inspiration and Rationale
 
 The artistic impulse here was transforming Mohamedi's static, precise grid structure into a dynamic system driven by an internal energy. I chose Perlin noise specifically because it provides that fluid, natural sense of randomness, which is far better suited than the choppy, unpredictable output of a standard random() function. The movement needed to feel continuous and organic.
 
